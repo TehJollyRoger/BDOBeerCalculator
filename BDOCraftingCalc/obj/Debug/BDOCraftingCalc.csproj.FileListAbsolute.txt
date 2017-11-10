@@ -1,0 +1,10 @@
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\bin\Debug\BDOCraftingCalc.exe.config
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\bin\Debug\BDOCraftingCalc.exe
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\bin\Debug\BDOCraftingCalc.pdb
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\obj\Debug\BDOCraftingCalc.csprojResolveAssemblyReference.cache
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\obj\Debug\BDOCraftingCalc.Form1.resources
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\obj\Debug\BDOCraftingCalc.Properties.Resources.resources
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\obj\Debug\BDOCraftingCalc.csproj.GenerateResource.Cache
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\obj\Debug\BDOCraftingCalc.csproj.CoreCompileInputs.cache
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\obj\Debug\BDOCraftingCalc.exe
+C:\Users\thejo\source\repos\BDOCraftingCalc\BDOCraftingCalc\obj\Debug\BDOCraftingCalc.pdb
